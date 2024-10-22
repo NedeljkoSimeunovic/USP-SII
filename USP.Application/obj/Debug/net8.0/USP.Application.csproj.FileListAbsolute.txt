@@ -13,3 +13,4 @@ C:\Users\Nedeljko\RiderProjects\USP\USP.Application\obj\Debug\net8.0\USP.Applica
 C:\Users\Nedeljko\RiderProjects\USP\USP.Application\obj\Debug\net8.0\refint\USP.Application.dll
 C:\Users\Nedeljko\RiderProjects\USP\USP.Application\obj\Debug\net8.0\USP.Application.pdb
 C:\Users\Nedeljko\RiderProjects\USP\USP.Application\obj\Debug\net8.0\ref\USP.Application.dll
+C:\Users\Nedeljko\RiderProjects\USP\USP.Application\obj\Debug\net8.0\USP.Application.sourcelink.json
