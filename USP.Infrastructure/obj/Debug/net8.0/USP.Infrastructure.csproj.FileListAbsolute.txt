@@ -1,0 +1,17 @@
+C:\Users\Nedeljko\RiderProjects\USP\USP.Infrastructure\bin\Debug\net8.0\USP.Infrastructure.deps.json
+C:\Users\Nedeljko\RiderProjects\USP\USP.Infrastructure\bin\Debug\net8.0\USP.Infrastructure.dll
+C:\Users\Nedeljko\RiderProjects\USP\USP.Infrastructure\bin\Debug\net8.0\USP.Infrastructure.pdb
+C:\Users\Nedeljko\RiderProjects\USP\USP.Infrastructure\bin\Debug\net8.0\USP.Application.dll
+C:\Users\Nedeljko\RiderProjects\USP\USP.Infrastructure\bin\Debug\net8.0\USP.Domain.dll
+C:\Users\Nedeljko\RiderProjects\USP\USP.Infrastructure\bin\Debug\net8.0\USP.Application.pdb
+C:\Users\Nedeljko\RiderProjects\USP\USP.Infrastructure\bin\Debug\net8.0\USP.Domain.pdb
+C:\Users\Nedeljko\RiderProjects\USP\USP.Infrastructure\obj\Debug\net8.0\USP.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Nedeljko\RiderProjects\USP\USP.Infrastructure\obj\Debug\net8.0\USP.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nedeljko\RiderProjects\USP\USP.Infrastructure\obj\Debug\net8.0\USP.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Nedeljko\RiderProjects\USP\USP.Infrastructure\obj\Debug\net8.0\USP.Infrastructure.AssemblyInfo.cs
+C:\Users\Nedeljko\RiderProjects\USP\USP.Infrastructure\obj\Debug\net8.0\USP.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Nedeljko\RiderProjects\USP\USP.Infrastructure\obj\Debug\net8.0\USP.Infr.EC178548.Up2Date
+C:\Users\Nedeljko\RiderProjects\USP\USP.Infrastructure\obj\Debug\net8.0\USP.Infrastructure.dll
+C:\Users\Nedeljko\RiderProjects\USP\USP.Infrastructure\obj\Debug\net8.0\refint\USP.Infrastructure.dll
+C:\Users\Nedeljko\RiderProjects\USP\USP.Infrastructure\obj\Debug\net8.0\USP.Infrastructure.pdb
+C:\Users\Nedeljko\RiderProjects\USP\USP.Infrastructure\obj\Debug\net8.0\ref\USP.Infrastructure.dll

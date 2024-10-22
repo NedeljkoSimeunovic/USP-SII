@@ -1,0 +1,17 @@
+C:\Users\Nedeljko\RiderProjects\USP\USP.Workers\bin\Debug\net8.0\USP.Workers.deps.json
+C:\Users\Nedeljko\RiderProjects\USP\USP.Workers\bin\Debug\net8.0\USP.Workers.dll
+C:\Users\Nedeljko\RiderProjects\USP\USP.Workers\bin\Debug\net8.0\USP.Workers.pdb
+C:\Users\Nedeljko\RiderProjects\USP\USP.Workers\bin\Debug\net8.0\USP.Application.dll
+C:\Users\Nedeljko\RiderProjects\USP\USP.Workers\bin\Debug\net8.0\USP.Domain.dll
+C:\Users\Nedeljko\RiderProjects\USP\USP.Workers\bin\Debug\net8.0\USP.Application.pdb
+C:\Users\Nedeljko\RiderProjects\USP\USP.Workers\bin\Debug\net8.0\USP.Domain.pdb
+C:\Users\Nedeljko\RiderProjects\USP\USP.Workers\obj\Debug\net8.0\USP.Workers.csproj.AssemblyReference.cache
+C:\Users\Nedeljko\RiderProjects\USP\USP.Workers\obj\Debug\net8.0\USP.Workers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nedeljko\RiderProjects\USP\USP.Workers\obj\Debug\net8.0\USP.Workers.AssemblyInfoInputs.cache
+C:\Users\Nedeljko\RiderProjects\USP\USP.Workers\obj\Debug\net8.0\USP.Workers.AssemblyInfo.cs
+C:\Users\Nedeljko\RiderProjects\USP\USP.Workers\obj\Debug\net8.0\USP.Workers.csproj.CoreCompileInputs.cache
+C:\Users\Nedeljko\RiderProjects\USP\USP.Workers\obj\Debug\net8.0\USP.Work.D3C25FEB.Up2Date
+C:\Users\Nedeljko\RiderProjects\USP\USP.Workers\obj\Debug\net8.0\USP.Workers.dll
+C:\Users\Nedeljko\RiderProjects\USP\USP.Workers\obj\Debug\net8.0\refint\USP.Workers.dll
+C:\Users\Nedeljko\RiderProjects\USP\USP.Workers\obj\Debug\net8.0\USP.Workers.pdb
+C:\Users\Nedeljko\RiderProjects\USP\USP.Workers\obj\Debug\net8.0\ref\USP.Workers.dll
