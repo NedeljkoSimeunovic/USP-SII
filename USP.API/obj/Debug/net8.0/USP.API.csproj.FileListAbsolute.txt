@@ -63,3 +63,4 @@ C:\Users\Nedeljko\RiderProjects\USP\USP.API\bin\Debug\net8.0\FluentValidation.De
 C:\Users\Nedeljko\RiderProjects\USP\USP.API\bin\Debug\net8.0\Ardalis.SmartEnum.dll
 C:\Users\Nedeljko\RiderProjects\USP\USP.API\bin\Debug\net8.0\USP.Workers.dll
 C:\Users\Nedeljko\RiderProjects\USP\USP.API\bin\Debug\net8.0\USP.Workers.pdb
+C:\Users\Nedeljko\RiderProjects\USP\USP.API\obj\Debug\net8.0\USP.API.sourcelink.json
